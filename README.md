@@ -46,6 +46,10 @@ A curated list of awesome resources dedicated to One Class Classification.
 * DOC: Deep Open Classification of Text Documents [[paper]](https://arxiv.org/abs/1709.08716)
 	* Lei Shu, Hu Xu, Bing Liu
 	* EMNLP 2017
+#### Deep Support Vector Data Description
+* Deep One-Class Classification [[paper]](http://proceedings.mlr.press/v80/ruff18a.html)
+	* Lukas Ruff, Robert Vandermeulen, Nico Goernitz, Lucas Deecke, Shoaib Ahmed Siddiqui, Alexander Binder, Emmanuel Müller, Marius Kloft
+	* PMLR 2018
 #### GAN
 * Out-of-domain Detection based on Generative Adversarial Network [[paper]](https://www.aclweb.org/anthology/D18-1077/)
 	* Seonghan Ryu, Sangjun Koo, Hwanjo Yu, Gary Geunbae Lee
