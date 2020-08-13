@@ -46,6 +46,10 @@ A curated list of awesome resources dedicated to One Class Classification.
 * DOC: Deep Open Classification of Text Documents [[paper]](https://arxiv.org/abs/1709.08716)
 	* Lei Shu, Hu Xu, Bing Liu
 	* EMNLP 2017
+#### GAN
+* Out-of-domain Detection based on Generative Adversarial Network [[paper]](https://www.aclweb.org/anthology/D18-1077/)
+	* Seonghan Ryu, Sangjun Koo, Hwanjo Yu, Gary Geunbae Lee
+	* EMNLP 2018
 #### KL Divergence
 * KLOOS: KL Divergence-based Out-of-Scope Intent Detection in Human-to-Machine Conversations [[paper]](https://dl.acm.org/doi/abs/10.1145/3397271.3401318)
 	* Eyup Halit Yilmaz, Cagri Toraman
