@@ -15,6 +15,7 @@ A curated list of awesome resources dedicated to One Class Classification.
 ## Research Trends and Surveys
 * [One-class classification: Concept-learning in the absence of counter-examples](http://homepage.tudelft.nl/n9d04/thesis.pdf) (DMJ Tax, 2001)
 * [One-class classification: taxonomy of study and review of techniques](https://arxiv.org/abs/1312.0049) (Shehroz S.Khan, Michael G.Madden, 2014)
+* [Rethinking Assumptions in Deep Anomaly Detection](https://arxiv.org/abs/2006.00339) (Lukas Ruff, Robert A. Vandermeulen, Billy Joe Franks, Klaus-Robert Müller, Marius Kloft, 2020)
 
 
 ## Papers
