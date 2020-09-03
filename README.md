@@ -55,6 +55,10 @@ A curated list of awesome resources dedicated to One Class Classification.
 * Out-of-domain Detection based on Generative Adversarial Network [[paper]](https://www.aclweb.org/anthology/D18-1077/)
 	* Seonghan Ryu, Sangjun Koo, Hwanjo Yu, Gary Geunbae Lee
 	* EMNLP 2018
+#### Margin Loss
+* Deep Unknown Intent Detection with Margin Loss [[paper]](https://www.aclweb.org/anthology/P19-1548/)
+	* Ting-En Lin, Hua Xu
+	* ACL 2019
 #### KL Divergence
 * KLOOS: KL Divergence-based Out-of-Scope Intent Detection in Human-to-Machine Conversations [[paper]](https://dl.acm.org/doi/abs/10.1145/3397271.3401318)
 	* Eyup Halit Yilmaz, Cagri Toraman
