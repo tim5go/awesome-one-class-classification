@@ -1,6 +1,6 @@
 # Awesome One Class Classification
 
-A curated list of awesome resources dedicated to One Class Classification.
+A curated list of awesome resources dedicated to One Class Classification and its application to NLP / CV.
 
 **Contributing**: Please feel free to make *[pull requests](https://github.com/tim5go/awesome-one-class-classification/pulls)*.
 
