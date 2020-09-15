@@ -1,4 +1,4 @@
-# Awesome One Class Classification
+# Awesome One Class Classification (and its appplication to NLP/CV)
 
 A curated list of awesome resources dedicated to One Class Classification.
 
