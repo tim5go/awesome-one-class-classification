@@ -55,10 +55,13 @@ A curated list of awesome resources dedicated to One Class Classification.
 * Out-of-domain Detection based on Generative Adversarial Network [[paper]](https://www.aclweb.org/anthology/D18-1077/)
 	* Seonghan Ryu, Sangjun Koo, Hwanjo Yu, Gary Geunbae Lee
 	* EMNLP 2018
-#### Mahalanobis distance-based confidence score
+#### Mahalanobis distance-based
 * A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks [[paper]](https://arxiv.org/abs/1807.03888)
 	* Kimin Lee, Kibok Lee, Honglak Lee, Jinwoo Shin
 	* NIPS 2018
+* Rethinking Softmax Cross-Entropy Loss for Adversarial Robustness [[paper]](https://arxiv.org/abs/1905.10626)
+	* Tianyu Pang, Kun Xu, Yinpeng Dong, Chao Du, Ning Chen, Jun Zhu
+	* ICLR 2020
 #### Margin Loss
 * Deep Unknown Intent Detection with Margin Loss [[paper]](https://www.aclweb.org/anthology/P19-1548/)
 	* Ting-En Lin, Hua Xu
