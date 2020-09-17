@@ -62,6 +62,10 @@ A curated list of awesome resources dedicated to One Class Classification and it
 * Rethinking Softmax Cross-Entropy Loss for Adversarial Robustness [[paper]](https://arxiv.org/abs/1905.10626)
 	* Tianyu Pang, Kun Xu, Yinpeng Dong, Chao Du, Ning Chen, Jun Zhu
 	* ICLR 2020
+#### Inhibited Softmax
+* Inhibited Softmax for Uncertainty Estimation in Neural Networks [[paper]](https://arxiv.org/abs/1810.01861)
+	* Marcin Możejko, Mateusz Susik, Rafał Karczewski
+	* ICLR 2019 Conference Withdrawn Submission
 #### Margin Loss
 * Deep Unknown Intent Detection with Margin Loss [[paper]](https://www.aclweb.org/anthology/P19-1548/)
 	* Ting-En Lin, Hua Xu
