@@ -78,6 +78,10 @@ A curated list of awesome resources dedicated to One Class Classification and it
 * Out-of-domain Detection for Natural Language Understanding in Dialog Systems [[paper]](https://arxiv.org/abs/1909.03862)
 	* Yinhe Zheng, Guanyi Chen, Minlie Huang
 	* TALSP 2020
+#### Conditional Gaussian Distribution Learning (CGDL)
+* Conditional Gaussian Distribution Learning for Open Set Recognition [[paper]](https://arxiv.org/abs/2003.08823)
+	* Xin Sun, Zhenning Yang, Chi Zhang, Guohao Peng, Keck-Voon Ling
+	* CVPR2020
 
 [Back to Top](#contents)
 
