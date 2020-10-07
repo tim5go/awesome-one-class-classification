@@ -82,10 +82,6 @@ A curated list of awesome resources dedicated to One Class Classification and it
 * Conditional Gaussian Distribution Learning for Open Set Recognition [[paper]](https://arxiv.org/abs/2003.08823)
 	* Xin Sun, Zhenning Yang, Chi Zhang, Guohao Peng, Keck-Voon Ling
 	* CVPR 2020
-#### Misclassification Aware adveRsarial Training (MART)
-* Improving Adversarial Robustness Requires Revisiting Misclassified Examples [[paper]](https://openreview.net/forum?id=rklOg6EFwS)
-	* Yisen Wang, Difan Zou, Jinfeng Yi, James Bailey, Xingjun Ma, Quanquan Gu
-	* ICLR 2020
 
 [Back to Top](#contents)
 
