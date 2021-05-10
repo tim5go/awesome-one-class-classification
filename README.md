@@ -35,7 +35,7 @@ A curated list of awesome resources dedicated to One Class Classification and it
 	* NAACL 2016
 #### Cumulative Learning
 * Learning Cumulatively to Become More Knowledgeable [[paper]](https://www.kdd.org/kdd2016/papers/files/rpp0426-feiA.pdf)
-	* Geli Fei, Shuai Wang and Bing Liu
+	* Geli Fei, Shuai Wang, Bing Liu
 	* KDD 2016
 
 ### Deep Learning Approaches
