@@ -22,9 +22,9 @@ A curated list of awesome resources dedicated to One Class Classification and it
 
 ### SVM Approaches
 #### Support Vector Domain Description
-* Support vector domain description [[paper]](http://rduin.nl/papers/prl_99_svdd.pdf)
+* Support vector data description [[paper]](http://rduin.nl/papers/prl_99_svdd.pdf)
 	* David M.J. Tax, Robert P.W. Duin
-	* Pattern Recognition Letters 20 (1999)
+	* Machine learning 54 (2004)
 #### Bayesian Data Description
 * A bayesian approach to the data description problem [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/8288/8147)
 	* Alireza Ghasemi, Hamid R Rabiee, Mohammad T Manzuri, Mohammad Hossein Rohban
