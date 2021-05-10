@@ -25,6 +25,10 @@ A curated list of awesome resources dedicated to One Class Classification and it
 * Support vector domain description [[paper]](http://rduin.nl/papers/prl_99_svdd.pdf)
 	* David M.J. Tax, Robert P.W. Duin
 	* Pattern Recognition Letters 20 (1999)
+#### Bayesian Data Description
+* A bayesian approach to the data description problem [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/8288/8147)
+	* Alireza Ghasemi, Hamid R Rabiee, Mohammad T Manzuri, Mohammad Hossein Rohban
+	* AAAI 2012
 #### Support Vector Mapping Convergence
 * Text Classification from Positive and Unlabeled Documents [[paper]](http://sifaka.cs.uiuc.edu/czhai/pub/cikm03-svm.pdf)
 	* Hwanjo Yu, ChengXiang Zhai, Jiawei Han
