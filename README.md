@@ -22,7 +22,7 @@ A curated list of awesome resources dedicated to One Class Classification and it
 
 ### SVM Approaches
 #### Support Vector Domain Description
-* Support vector data description [[paper]](http://rduin.nl/papers/prl_99_svdd.pdf)
+* Support vector data description [[paper]](http://homepage.tudelft.nl/a9p19/papers/ML_SVDD_04.pdf)
 	* David M.J. Tax, Robert P.W. Duin
 	* Machine learning 54 (2004)
 #### Bayesian Data Description
